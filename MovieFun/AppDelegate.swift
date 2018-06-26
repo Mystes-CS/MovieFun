@@ -1,9 +1,9 @@
 //
 //  AppDelegate.swift
-//  MovieFun
+//  AlamoFireDemo
 //
-//  Created by Yu-Hsuan Chen on 2018/6/26.
-//  Copyright © 2018年 Tsung-Han Ho. All rights reserved.
+//  Created by Frank.Chen on 2017/3/11.
+//  Copyright © 2017年 Frank.Chen. All rights reserved.
 //
 
 import UIKit
